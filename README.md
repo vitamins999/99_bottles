@@ -1,2 +1,2 @@
-# 99_bottles
-Simple Python script to print the lyrics to 99 Bottles of Beer on the Wall.
+# simple_python_projects
+A place to store simple Python projects.
